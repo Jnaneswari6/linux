@@ -1,2 +1,2 @@
 # linux
-list of linux commands
+list of linux command
